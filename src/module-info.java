@@ -4,6 +4,6 @@
 /**
  * 
  */
-module ProjetosKauaNeuenfeld {
+module ProjetosJavaEclipseSENAIKauaNeuenfeld {
 	requires java.sql;
 }
